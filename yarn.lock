@@ -4999,10 +4999,10 @@ toidentifier@1.0.1:
   resolved "https://registry.yarnpkg.com/toidentifier/-/toidentifier-1.0.1.tgz#3be34321a88a820ed1bd80dfaa33e479fbb8dd35"
   integrity sha512-o5sSPKEkg/DIQNmH43V0/uerLrpzVedkUh8tGNvaeXpfpuwjKenlSox/2O/BTlZUtEe+JG7s5YhEz608PlAHRA==
 
-trumbowyg@^2.21.0:
-  version "2.23.0"
-  resolved "https://registry.yarnpkg.com/trumbowyg/-/trumbowyg-2.23.0.tgz#fb1f9038bb2a58672067ecd531154c8118e9d5c2"
-  integrity sha512-g9Ac+RKUtYsTX4eGM/MMe+WhjHhafhp5Nz7zHP9zQtaghv84SOoNaGO5Z7brmFVQSJyatB0ee5qFztZYlNJfEg==
+trumbowyg@^2.28.0:
+  version "2.28.0"
+  resolved "https://registry.yarnpkg.com/trumbowyg/-/trumbowyg-2.28.0.tgz#ec6e9357ac3c9366e4c815923d31bf5d9bdf26f5"
+  integrity sha512-K4KX6psV+hUt03Y3RNdQM5Y+JLfZOUliNnCz5lm12Llfhwvx0P0geBsM0w9ZHeX5g8q7d2MC5X7sPOwGv0Q7Kw==
 
 tslib@^2.0.3:
   version "2.5.0"
